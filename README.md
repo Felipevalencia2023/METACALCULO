@@ -1,2 +1,2 @@
 <h1 align="center"> METACALCULO </h1>
-![meta](https://user-images.githubusercontent.com/126218885/221388966-e275b9d1-651c-4a8e-bd0e-6698c999fe14.png)
+![meta](https://user-images.githubusercontent.com/126218885/221389285-cd92c93a-f67a-4399-9265-ef547e88cf09.png)
