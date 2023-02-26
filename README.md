@@ -3,7 +3,7 @@
 
 ##Índice
   
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Título e imagen de portada](#meta)
 
 *[Insignias](#insignias)
 
